@@ -1,5 +1,5 @@
-:anchor: Command Philosophy
-==================
+:anchor: Command Philosophy :anchor:
+====================================
 > Some words regarding ***sustainability***
 
 Consistent
