@@ -1,0 +1,20 @@
+{
+  "name": "command-philosophy",
+  "version": "1.0.0",
+  "description": "My command philosophy",
+  "main": "README.md",
+  "scripts": {
+    "test": "proofreader -f README.md",
+    "start": "watch 'npm test' ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@me:jhwohlgemuth/command-philosophy"
+  },
+  "author": "LCDR Jason Wohlgemuth",
+  "license": "MIT",
+  "devDependencies": {
+    "proofreader": "^0.6.4",
+    "watch": "^1.0.2"
+  }
+}
